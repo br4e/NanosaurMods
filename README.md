@@ -1,2 +1,6 @@
 # NanosaurMods
-Mods for Nanosaur 1
+
+1) Click on the mod that you want, then 
+2) click download
+3) Open the .dmg, and then 
+4) open the app inside
